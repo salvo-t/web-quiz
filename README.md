@@ -15,4 +15,5 @@ This is what the main game should look like. This is a five question quiz about 
 
 
 <img width="956" alt="js" src="https://user-images.githubusercontent.com/112913338/220229805-d4beec1e-2c26-4608-8347-eec8235c7ca3.PNG">
+<img width="572" alt="planet" src="https://user-images.githubusercontent.com/112913338/220229977-a22c2bf4-a3c2-4cca-ad2a-2ef6b7620290.PNG">
 
